@@ -11,7 +11,7 @@ Analysis:
 
 Key Insights:
 - Top category is electronics
-- Top customer is Alu
+- Top customer is Ali
 - Customers prefer electronics
 
 Skills:
